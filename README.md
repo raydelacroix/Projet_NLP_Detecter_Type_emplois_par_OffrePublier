@@ -29,3 +29,4 @@ Ce projet utilise des techniques de traitement du langage naturel (NLP) pour dé
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/votre_nom_utilisateur/Projet_NLP_Detecter_Type_emplois_par_OffrePublier.git
+   (https://github.com/raydelacroix/Projet_NLP_Detecter_Type_emplois_par_OffrePublier.git)
